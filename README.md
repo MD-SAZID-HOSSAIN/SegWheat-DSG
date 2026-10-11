@@ -186,23 +186,4 @@ pip install git+https://github.com/facebookresearch/segment-anything.git
 - Use the 48,675 unannotated GWFSS images for semi-supervised SAM fine-tuning.
 - Validate across other regions, cultivars, and imaging conditions.
 
-## Citation
 
-If you use this work, please cite:
-
-```bibtex
-@inproceedings{hossain2026segwheatdsg,
-  title     = {{SegWheat-DSG}: A Segmentation-Guided Framework for Wheat Head Disease Detection and Severity Grading},
-  author    = {Hossain, Md Sazid and Mahin, Siddatul Muntaha Chowdhury and Hasnat, Abu Sadik Md. Waliul},
-  booktitle = {IEEE 3rd International Conference on Computing, Applications and Systems (COMPAS)},
-  address   = {Dhaka, Bangladesh},
-  year      = {2026},
-  note      = {Accepted}
-}
-```
-
-## Acknowledgments
-
-Built on WheatSAM (Al Nahian et al., 2024), Segment Anything (Kirillov et al., 2023), YOLOv9 (Wang et al., 2024), and EfficientNet (Tan and Le, 2019). Thanks to Rashik Rahman, Lecturer, Department of CSE, University of Asia Pacific, for guidance and support throughout the project.
-
-Maintained by Md Sazid Hossain ([@MD-SAZID-HOSSAIN](https://github.com/MD-SAZID-HOSSAIN)), Department of CSE, University of Asia Pacific, Dhaka.
