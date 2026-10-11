@@ -254,4 +254,4 @@ If you use this work, please cite:
 
 ## License
 
-Add your chosen license here (e.g. MIT). The datasets used are released under CC BY 4.0; please follow their respective terms.
+This project is released under the [MIT License](LICENSE). The datasets used are released under CC BY 4.0; please follow their respective terms. Third-party models (YOLOv9, Segment Anything, EfficientNet) are subject to their own licenses.
