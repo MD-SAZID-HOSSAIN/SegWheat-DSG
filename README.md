@@ -4,7 +4,7 @@
 
 SegWheat-DSG is a three-stage pipeline that goes from a raw field photograph to a per-head disease and severity map. It detects every wheat head, segments each one at pixel level, then classifies the disease type and severity of each isolated head.
 
-![Pipeline overview](assets/pipeline.png)
+![Pipeline overview](pipeline.png)
 
 ---
 
